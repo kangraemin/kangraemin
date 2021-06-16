@@ -2,10 +2,11 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kangraemin)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Notion tech blog
-[![TIL](https://img.shields.io/badge/-TIL-black?style=flat-square&logo=notion&link=https://www.notion.so/Public-TIL-31ca6d0cded746b4b47b0f7cc2698f0c)](https://www.notion.so/Public-TIL-31ca6d0cded746b4b47b0f7cc2698f0c)
+[![TIL](https://img.shields.io/badge/-TIL-black?style=flat-square&logo=notion&link=https://www.notion.so/Public-TIL-31ca6d0cded746b4b47b0f7cc2698f0c)]().  
+Notion link : https://www.notion.so/Public-TIL-31ca6d0cded746b4b47b0f7cc2698f0c   
 
 ### Github tech blog
-[https://kangraemin.github.io/](https://kangraemin.github.io/)
+Github link : [https://kangraemin.github.io/](https://kangraemin.github.io/)
 
 <!--
 **kangraemin/kangraemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

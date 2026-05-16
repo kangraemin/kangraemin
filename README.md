@@ -2,20 +2,14 @@
 
 ## 🤖 Claude Code Usage
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-dark.svg">
-  <img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-light.svg" alt="Claude Code Stats" width="540">
-</picture>
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-dark.svg#gh-dark-mode-only" alt="Claude Code Stats" width="540">
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-light.svg#gh-light-mode-only" alt="Claude Code Stats" width="540">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap-dark.svg">
-  <img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap-light.svg" alt="Activity Heatmap" width="843">
-</picture>
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap-dark.svg#gh-dark-mode-only" alt="Activity Heatmap" width="843">
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap-light.svg#gh-light-mode-only" alt="Activity Heatmap" width="843">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost-dark.svg">
-  <img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost-light.svg" alt="Daily Cost Trend" width="720">
-</picture>
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost-dark.svg#gh-dark-mode-only" alt="Daily Cost Trend" width="720">
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost-light.svg#gh-light-mode-only" alt="Daily Cost Trend" width="720">
 
 > 매일 06:00 KST 자동 갱신 — [kangraemin/claude-code-stats](https://github.com/kangraemin/claude-code-stats)
 

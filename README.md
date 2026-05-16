@@ -4,11 +4,13 @@
 
 **🌐 [📊 인터랙티브 대시보드 →](https://kangraemin.github.io/claude-code-stats/)** (hover/zoom 가능)
 
-![Claude Code Stats](https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card.svg)
+<a href="https://kangraemin.github.io/claude-code-stats/">
+  <img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card.svg" alt="Claude Code Stats" width="480">
+</a>
 
-![Activity Heatmap](https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap.svg)
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap.svg" alt="Activity Heatmap" width="843">
 
-![Daily Cost Trend](https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost.svg)
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost.svg" alt="Daily Cost Trend" width="720">
 
 > 매일 06:00 KST 자동 갱신 — [kangraemin/claude-code-stats](https://github.com/kangraemin/claude-code-stats)
 

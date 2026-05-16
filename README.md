@@ -2,14 +2,14 @@
 
 ## 🤖 Claude Code Usage
 
-<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-dark.svg#gh-dark-mode-only" alt="Claude Code Stats" width="540">
-<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-light.svg#gh-light-mode-only" alt="Claude Code Stats" width="540">
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-v3-dark.svg#gh-dark-mode-only" alt="Claude Code Stats" width="540">
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-v3-light.svg#gh-light-mode-only" alt="Claude Code Stats" width="540">
 
-<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap-dark.svg#gh-dark-mode-only" alt="Activity Heatmap" width="843">
-<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap-light.svg#gh-light-mode-only" alt="Activity Heatmap" width="843">
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap-v3-dark.svg#gh-dark-mode-only" alt="Activity Heatmap" width="843">
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap-v3-light.svg#gh-light-mode-only" alt="Activity Heatmap" width="843">
 
-<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost-dark.svg#gh-dark-mode-only" alt="Daily Cost Trend" width="720">
-<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost-light.svg#gh-light-mode-only" alt="Daily Cost Trend" width="720">
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost-v3-dark.svg#gh-dark-mode-only" alt="Daily Cost Trend" width="720">
+<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost-v3-light.svg#gh-light-mode-only" alt="Daily Cost Trend" width="720">
 
 > 매일 06:00 KST 자동 갱신 — [kangraemin/claude-code-stats](https://github.com/kangraemin/claude-code-stats)
 

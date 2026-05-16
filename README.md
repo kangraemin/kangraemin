@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Claude Code Usage](https://raw.githubusercontent.com/USERNAME/claude-code-stats/main/assets/stats-card.svg)  
 [![kangraemin's github stats](https://github-readme-stats-mu-taupe-15.vercel.app/api?username=kangraemin)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me 

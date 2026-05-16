@@ -5,12 +5,21 @@
 **🌐 [📊 인터랙티브 대시보드 →](https://kangraemin.github.io/claude-code-stats/)** (hover/zoom 가능)
 
 <a href="https://kangraemin.github.io/claude-code-stats/">
-  <img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card.svg" alt="Claude Code Stats" width="480">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-dark.svg">
+    <img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-light.svg" alt="Claude Code Stats" width="520">
+  </picture>
 </a>
 
-<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap.svg" alt="Activity Heatmap" width="843">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap-dark.svg">
+  <img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap-light.svg" alt="Activity Heatmap" width="843">
+</picture>
 
-<img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost.svg" alt="Daily Cost Trend" width="720">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost-dark.svg">
+  <img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/daily-cost-light.svg" alt="Daily Cost Trend" width="720">
+</picture>
 
 > 매일 06:00 KST 자동 갱신 — [kangraemin/claude-code-stats](https://github.com/kangraemin/claude-code-stats)
 

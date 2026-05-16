@@ -2,6 +2,8 @@
 
 ## 🤖 Claude Code Usage
 
+**🌐 [📊 인터랙티브 대시보드 →](https://kangraemin.github.io/claude-code-stats/)** (hover/zoom 가능)
+
 ![Claude Code Stats](https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card.svg)
 
 ![Activity Heatmap](https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap.svg)

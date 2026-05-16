@@ -2,14 +2,10 @@
 
 ## 🤖 Claude Code Usage
 
-**🌐 [📊 인터랙티브 대시보드 →](https://kangraemin.github.io/claude-code-stats/)** (hover/zoom 가능)
-
-<a href="https://kangraemin.github.io/claude-code-stats/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-dark.svg">
-    <img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-light.svg" alt="Claude Code Stats" width="520">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-dark.svg">
+  <img src="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/stats-card-light.svg" alt="Claude Code Stats" width="540">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangraemin/claude-code-stats/main/assets/heatmap-dark.svg">
